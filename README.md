@@ -1,2 +1,4 @@
 # pythonsul-artes
-Repositório como logos e artes dos eventos
+
+Repositório com as logos e artes dos eventos.
+
